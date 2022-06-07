@@ -1,0 +1,42 @@
+
+body {
+    background-color:  #327497;
+    color: #d9ecd0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.contant{
+    height:20vh
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    height: 200%;
+}
+
+th ,td {
+    border: 1px solid #e4d1d1;
+    border-collapse: collapse;
+    width: 200px;
+}
+
+img {
+    height: 70px;
+}
+
+.read {
+    background-color: #0071cc;
+}
+
+.update {
+background-color: #f7b558;
+}
+
+.delete {
+    background-color: #db4f4a;
+}
+
+footer{
+    text-align: start;
+}
